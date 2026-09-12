@@ -1,0 +1,22 @@
+﻿# Python / bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Local DB
+*.db
+bistro.db
+
+# Editor / OS
+.vscode/
+Thumbs.db
+.DS_Store
+
+# Temp scripts we used for inspection
+list_tables.py
+show_*.py
